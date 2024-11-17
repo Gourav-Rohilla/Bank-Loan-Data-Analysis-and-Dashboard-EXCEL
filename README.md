@@ -1,6 +1,6 @@
 # Bank-Loan-Data-Analysis-and-Dashboard-EXCEL
   The Bank Loan Data Analysis and Dashboard Creation project involves the process of transforming raw loan data into actionable insights for better decision-making. The project follows a structured workflow to clean, analyze, and visualize the data, ultimately providing a comprehensive dashboard that highlights key loan metrics and trends.
-   Data Collection and Raw Data Import: The first step in the project was to gather raw data related to loan applications.The raw data may come from multiple sources, including spreadsheets, databases, or external systems.
+  ***Data Collection and Raw Data Import**: The first step in the project was to gather raw data related to loan applications.The raw data may come from multiple sources, including spreadsheets, databases, or external systems.
 Data Cleaning and Preprocessing: Once the raw data was collected, it was cleaned and processed to ensure consistency and accuracy. This step included removing duplicate records, handling missing values, correcting data formatting errors .The goal was to ensure the data was ready for analysis by converting it into a structured and usable format.
 
 **Data Analysis:** After cleaning the data, various analytical techniques were applied to gain insights into the loan portfolio.
